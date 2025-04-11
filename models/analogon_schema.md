@@ -36,7 +36,7 @@ To define the minimal coherent structure necessary to represent a single manifes
 - This schema is recursive: any Analogon can be a node in the Input Field or Coherence Node of another.
 - Analogons exist only within the interaction-space of agents with context. They are not global truths.
 - This schema serves both as a documentation tool *and* as a scaffolding for models to identify and build new Analogons during inference.
-
+- See Analogon Delta Interface for inter-analogon communication and delta propagation protocol.
 ---
 
 **Status:** Foundational. Open to iterative refinement.
