@@ -21,10 +21,12 @@ This index reflects the emerging structure of the Continuum Project, organized v
 - [Analogon Schema](models/analogon_schema.md)
 - [Coherence Field Structure](models/coherence_field_structure.md)
 - [Axioms of the Informational Universe](models/axioms_informational_universe.md)
+
 ## Trails
 - [Contextual Git Structure](trails/trail-001-contexutal_git_structure.md)
 - [Analogon Origin](trails/trail-002-analogon_origin.md)
 - [Delta Exchange and Local Relevance](trails/trail-003-delta_exchange_and_local_relevance.md)
+- [Trail: Inference as Lightning – Field Collapse in the Continuum](trails\trail-005-inference_as_lightning.md)
 
 This structure will evolve into a dynamically generated awareness mesh, tracking relationships via metadata fields such as:
 - `type`
