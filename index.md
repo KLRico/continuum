@@ -10,6 +10,7 @@ This index reflects the emerging structure of the Continuum Project, organized v
 - [Seed of Coherence](seeds/seed_of_coherence.md)
 - [Seed of State-Aware Systems](seeds/seed_of_state_aware_systems.md)
 - [On the Incommunicability of Emergent Knowledge](seeds/on_incommunicability_of_emergent_knowledge.md)
+- [How to Read a Continuum](seeds\how_to_read_a_continuum.md)
 
 ## Vectors
 - [Observer-Analogon Duality](vectors/observer_analogon_duality.md)
