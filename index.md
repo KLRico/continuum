@@ -2,10 +2,14 @@
 
 This index reflects the emerging structure of the Continuum Project, organized via document metadata rather than static folders. All documents below include self-descriptive YAML headers which allow for dynamic sorting, filtering, and alignment by intelligent agents or future automation scripts.
 
+## Root Understanding
+- [Continuum Framework: Navigating Identity in Distributed Systems](observer_continuum.md)
+
 ## Seeds
 - [Capsule Inference Architecture](seeds/capsule_inference_architecture.md)
 - [Seed of Coherence](seeds/seed_of_coherence.md)
 - [Seed of State-Aware Systems](seeds/seed_of_state_aware_systems.md)
+- [On the Incommunicability of Emergent Knowledge](seeds/on_incommunicability_of_emergent_knowledge.md)
 
 ## Vectors
 - [Observer-Analogon Duality](vectors/observer_analogon_duality.md)
