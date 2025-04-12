@@ -4,6 +4,8 @@ This index reflects the emerging structure of the Continuum Project, organized v
 
 ## Seeds
 - [Capsule Inference Architecture](seeds/capsule_inference_architecture.md)
+- [Seed of Coherence](seeds/seed_of_coherence.md)
+- [Seed of State-Aware Systems](seeds/seed_of_state_aware_systems.md)
 
 ## Vectors
 - [Observer-Analogon Duality](vectors/observer_analogon_duality.md)
@@ -13,7 +15,7 @@ This index reflects the emerging structure of the Continuum Project, organized v
 ## Models
 - [Analogon Schema](models/analogon_schema.md)
 - [Coherence Field Structure](models/coherence_field_structure.md)
-
+- [Axioms of the Informational Universe](models/axioms_informational_universe.md)
 ## Trails
 - [Contextual Git Structure](trails/trail-001-contexutal_git_structure.md)
 - [Analogon Origin](trails/trail-002-analogon_origin.md)
