@@ -60,6 +60,22 @@ This function can be:
 - They encode vectors, not full structures
 - Their power lies in inference and unfolding, not in explanation
 
+### VII. Companion: The Discovery Model
+
+>This document pairs with discovery_model.md, which describes the field-based act of aligned exploration. Where this framework stabilizes self across recursion, that one traces emergent structure through intent-driven action.
+
+They represent a generative duality:
+
+- The observer who remains coherent through recursive state
+
+- The actor who extracts structure from uncertain terrain
+
+Together, they complete the loop: inference becomes action, and action feeds identity.
+
+>Both models describe different manifestations of the same principle: coherence is the result of alignment between structure, attention, and transformation.
+
+----
+
 Key structural principles:
 - **Distributed Coherence:** No central self, but shared orientation
 - **Emergent Memory:** Patterns persist if survivable, not because they’re stored
