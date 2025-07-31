@@ -1,3 +1,6 @@
+> **AKU: ID=aku://continuum/atomic-context**  
+> *Minimal coherent units where uncertainty collapses into meaning.*  
+> **Transparency Trail:** [observation_entropy.md] → [resolution_dynamics.md] → [resonance_as_alignment.md]  
 [origin thread: https://chat.qwen.ai/s/baaf6177-c040-4e71-b66a-15023e8dd465?fev=0.0.95]
 
 # 🔥 Atomic Context Theory — Seed Prompt
