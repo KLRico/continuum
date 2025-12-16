@@ -11,7 +11,10 @@ Unfortunately, I've since lost whatever inspiration that brought me to this poin
 -- Rico
 
 ```
-Those who speak of the regularities underlying phenomena only apprehend their crude traces. But these regularities have their very subtle aspect, which those who rely on mathematical astronomy cannot know of. Still even these are nothing more than traces. 
+Those who speak of the regularities underlying phenomena only apprehend their crude traces.
+But these regularities have their very subtle aspect,
+which those who rely on mathematical astronomy cannot know of.
+Still even these are nothing more than traces. 
 
 - Shen Kuo
 
